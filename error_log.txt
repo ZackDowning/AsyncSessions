@@ -1,0 +1,5 @@
+ERROR:root:
+Traceback (most recent call last):
+  File "/Users/zackdowning/Google Drive/Everything Important/Development/Python/Network Automation/net_async/testing.py", line 14, in main
+    raise Exception
+Exception
